@@ -1,2 +1,8 @@
 # October-Effic-2022
-Contains data and demos of the October Effic 2022 event.
+turbine:    16
+ot:         6
+frozen:     5
+aard3c:     5
+simplicity: 4
+memento:    2
+academy:    1
